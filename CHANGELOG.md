@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.67.0](https://github.com/googleapis/python-aiplatform/compare/v1.66.0...v1.67.0) (2024-09-13)
+
+
+### Features
+
+* Adding Feature Store Vector DB option for RAG corpuses to SDK ([cfc3421](https://github.com/googleapis/python-aiplatform/commit/cfc3421fe8a883d459b66ed8c9f39697ded23f20))
+* Allow customizing pipeline caching options for model evaluation jobs. ([73490b2](https://github.com/googleapis/python-aiplatform/commit/73490b22a239cb1a3c31349f8db6cfbc5232e231))
+
+
+### Documentation
+
+* Manually add summary overview page. ([0bc608a](https://github.com/googleapis/python-aiplatform/commit/0bc608a9c045007f12325231ed7f0069a40f469b))
+
 ## [1.66.0](https://github.com/googleapis/python-aiplatform/compare/v1.65.0...v1.66.0) (2024-09-11)
 
 
